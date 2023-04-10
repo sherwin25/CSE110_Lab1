@@ -13,7 +13,7 @@
 
  The site was built using [GitHub Pages](https://pages.github.com/)
 
- To try out this feature of linking. I'll go ahead and link you guys to my `.gitignore` file [link](/.gitignore)
+ To try out this feature of linking. I'll go ahead and link you guys to one of my screenshots [link](href="screenshots/Screenshot%202023-04-09%20at%203.34.47%20PM.png")
 
 
 I'll also go ahead and give an ordered list with the first 5 fibonacci numbers
