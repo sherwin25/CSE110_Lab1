@@ -1,6 +1,6 @@
 # **Sherwin's Page**
-[Link to 'About me' section](#about-me)
-[Link to 'Tasks' section](#tasks)
++ [Link to 'About me' section](#about-me)
+- [Link to 'Tasks' section](#tasks)
 
 
 
