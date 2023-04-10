@@ -1,7 +1,6 @@
 # **Sherwin's Page**
 
-![SWE pic](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwoz-u.com%2Fblog%2Fthe-evolution-of-coding-what-programming-languages-are-prominent-today%2F&psig=AOvVaw0LFF0b-EPxFhuRQvrYzfol&ust=1681170711364000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJDDwIr_nf4CFQAAAAAdAAAAABAJ)
-
+![Code](../../../Downloads/photo-1542831371-29b0f74f9713.jpeg)
 ## About me
 [Link to About me section](#about-me)
  I am a 3rd year **_CS_** major. I hope to be a swe, I always tell my friends to 
